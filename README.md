@@ -15,7 +15,8 @@ I'm a Computer Enthusiast with a passion for binary analysis and everything bina
 
 ### 🟢 Active
 -  Persian Siamese Network for handwritten recognition 
--  Blog for my fantasyWorld Known As Istarian Wars 
+-  Blog for my fantasyWorld Known As Istarian Wars
+-  Networking Tools Practicing Using Sockets
 
 ### ⏸️ Paused
 
