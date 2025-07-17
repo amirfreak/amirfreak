@@ -11,6 +11,16 @@ I'm a Computer Enthusiast with a passion for binary analysis and everything bina
 - 👯 I’m looking to collaborate on **Machine Learning, Backend, Binary Analysis**
 - 📫 How to reach me: [amireasazadeh@gmail.com]
 
+## 🚧 Projects
+
+### 🟢 Active
+-  Persian Siamese Network for handwritten recognition 
+-  Blog for my fantasyWorld Known As Istarian Wars 
+
+### ⏸️ Paused
+
+- My Little Operating System (freakyOS) for embedded systems
+
 
 ## 🛠️ Technologies & Tools
 
