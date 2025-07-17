@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
-I'm a [Your Profession or Role] with a passion for [your interests, e.g., web development, machine learning, open source, etc.]. I love building tools and projects that solve real-world problems and learning new technologies along the way.
+I'm a Computer Enthusiast with a passion for binary analysis and everything binary.
 
 - 🌱 I’m currently learning **C#, PHP**
 - 💬 Ask me about **ML**
