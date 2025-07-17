@@ -10,7 +10,7 @@ I'm a Computer Enthusiast with a passion for binary analysis and everything bina
 - 💬 Ask me about **ML**
 - 👯 I’m looking to collaborate on **Machine Learning, Backend, Binary Analysis**
 - 📫 How to reach me: [amireasazadeh@gmail.com]
-- 🧠 Fun fact: Dues Valt
+
 
 ## 🛠️ Technologies & Tools
 
