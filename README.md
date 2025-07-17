@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋, I'm [Your Name]
 
-<!--
-**amirfreak/amirfreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a [Your Profession or Role] with a passion for [your interests, e.g., web development, machine learning, open source, etc.]. I love building tools and projects that solve real-world problems and learning new technologies along the way.
+
+- 🌱 I’m currently learning **C#, PHP**
+- 💬 Ask me about **ML**
+- 👯 I’m looking to collaborate on **Machine Learning, Backend, Binary Analysis**
+- 📫 How to reach me: [amireasazadeh@gmail.com]
+- 🧠 Fun fact: Dues Valt
+
+## 🛠️ Technologies & Tools
+
+![Languages](https://skillicons.dev/icons?i=js,ts,py,java,go,html,css,react,nextjs,nodejs,mongodb,postgres,git,linux,docker,kubernetes)
+
+
