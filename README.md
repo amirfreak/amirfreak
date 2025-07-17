@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm Amir Mohammad Easazadeh 
 
 Welcome to my GitHub profile!
 
