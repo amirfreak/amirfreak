@@ -14,6 +14,6 @@ I'm a Computer Enthusiast with a passion for binary analysis and everything bina
 
 ## 🛠️ Technologies & Tools
 
-![Languages](https://skillicons.dev/icons?i=js,ts,py,java,go,html,css,react,nextjs,nodejs,mongodb,postgres,git,linux,docker,kubernetes)
+![Languages](https://skillicons.dev/icons?i=js,py,java,html,css,react,nextjs,nodejs,mongodb,postgres,git,linux,docker,kubernetes,cs)
 
 
